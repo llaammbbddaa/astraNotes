@@ -33,3 +33,7 @@ All of these things work together THROUGH lattice to automate some of the things
 [Quickstart \| Lattice Developers \| Documentation](https://developer.anduril.com/guides/getting-started/quickstart)
 the documentation seems to be helpful, but i cant really test out the example code / projects because i need an auth token
 ![[submission.png]]
+
+#### [GitHub - anduril/sample-app-camera · GitHub](https://github.com/anduril/sample-app-camera)
+this is a project that i would like to try
+it would be super awesome to feed a bunch of data from the tank through this system to see what kind of output i can get

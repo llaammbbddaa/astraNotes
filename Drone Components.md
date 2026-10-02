@@ -39,3 +39,5 @@ Receiver System
 - Drones use brushless motors
 - The brushless motors are controlled by the Electronic Speed Controller (ESC)
 - The ESC is controlled by PWM, which sets the speed of the brushless motors
+[The very very basics of a drone and its components - YouTube](https://youtu.be/rBuwot8A7ac?si=LjmXXRBFb1js9WZ6)
+[Drone Components Explained: FPV Beginner series - Quadcopter parts explained - Flight Controller etc - YouTube](https://youtu.be/jOugJpQfUDU?si=xizS_DI-jFlKpV0o)
