@@ -18,3 +18,11 @@ sudo qemu-system-x86_64 \
   -nic user,hostfwd=tcp:127.0.0.1:2222-:22
 ```
 - installed mission planner [Installing Mission Planner — Mission Planner documentation](https://ardupilot.org/planner/docs/mission-planner-installation.html)
+
+# saturday meeting conclusion
+
+- understand opencv
+- understand yolo
+- understanding ros2
+- implement prototype program for [[understanding rundown]]
+- yolo 26m
