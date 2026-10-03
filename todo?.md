@@ -10,13 +10,11 @@
 	Normally, to use a live USB you reboot your computer and boot from the stick, which means leaving your current OS. With QEMU you can instead treat the physical USB drive as the virtual machine's hard disk. The VM boots the live system from it in a window on your desktop, while Ubuntu keeps running.
 ``` bash
 # assuming that the live usb is under /dev/sdb as mine was
-sudo apt update
-sudo apt install qemu-system-x86 qemu-utils ovmf
 sudo qemu-system-x86_64 \
   -enable-kvm -cpu host -smp 2 -m 4G \
-  -drive file=/dev/sdb,format=raw,snapshot=on \
+  -drive file=/dev/sdb,format=raw \
   -bios /usr/share/ovmf/OVMF.fd \
   -device virtio-vga -display gtk \
-  -nic user
+  -nic user,hostfwd=tcp:127.0.0.1:2222-:22
 ```
 - installed mission planner [Installing Mission Planner — Mission Planner documentation](https://ardupilot.org/planner/docs/mission-planner-installation.html)
