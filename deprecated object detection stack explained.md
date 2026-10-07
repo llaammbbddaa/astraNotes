@@ -259,3 +259,5 @@ So the main runtime commands are effectively:
 - Jetson hardware checks and GPU memory optimization
 
 > In short: this is a ROS2 object-detection package built around YOLO and SAHI, tuned for small aerial targets such as people and tents, with extra GPU/Jetson optimization layers.
+
+[[understanding deprecated object detection stack]]

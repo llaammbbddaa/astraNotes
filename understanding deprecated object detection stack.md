@@ -10,5 +10,5 @@ each slice of the original image is run through yolo
 
 ==ros lifecycle node vs. ros plain node==
 
-![[rundown#Major packages / tools used across the package]]
+![[deprecated object detection stack explained#Major packages / tools used across the package]]
 

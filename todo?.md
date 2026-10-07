@@ -1,4 +1,4 @@
-# todo 
+n# todo 
 - arducopter [Copter Introduction — Copter documentation](https://ardupilot.org/copter/docs/copter-introduction.html)
 - ros 2 tutorials [ROS 2 Documentation: Humble](https://docs.ros.org/en/humble/Tutorials.html)
 - anduril lattice
@@ -21,8 +21,8 @@ sudo qemu-system-x86_64 \
 
 # saturday meeting conclusion
 
-- understand opencv
-- understand yolo
+- understand opencv [[opencv]]
+- understand yolo [[yolo]]
 - understanding ros2
-- implement prototype program for [[understanding rundown]]
+- implement prototype program for [[understanding deprecated object detection stack]]
 - yolo 26m
