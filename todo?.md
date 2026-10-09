@@ -25,4 +25,6 @@ sudo qemu-system-x86_64 \
 - understand yolo [[yolo]]
 - understanding ros2 [[ros2]]
 - implement prototype program for [[understanding deprecated object detection stack]]
-- yolo 26m
+- yolo 26m, ended up using yolo11n
+[working prototype](https://github.com/llaammbbddaa/objectDetection)
+still working on understanding ros2

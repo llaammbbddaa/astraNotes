@@ -1,6 +1,7 @@
 [What Is ROS2? - Framework Overview - YouTube](https://youtu.be/7TVWlADXwRw?si=jbaHITiotzVvnYbl)
 [ROS2 Tutorial - ROS2 Humble 2H50 \[Crash Course\] - YouTube](https://youtu.be/Gg25GfA456o?si=kYlAWEfoWlnQYkVv)
-[C++ Publisher Subscriber Example](https://docs.ros.org/en/foxy/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Cpp-Publisher-And-Subscriber.html)
+[C++ Publisher Subscriber Example](https://docs.ros.org/en/humble/Tutorials/Beginner-Client-Libraries/Writing-A-Simple-Cpp-Publisher-And-Subscriber.html)
+[How to Write C++ Subscriber and Publisher Nodes in ROS2 Humble from Scratch - ROS2 tutorial - YouTube](https://youtu.be/SwBb-pIMU60?si=sgedud9SMAJP6mca)
 ## what is ros2?
 
 - DDS, data distribution service, acts as a pipeline to exchange data between nodes / programs, data sent can be encrypted
