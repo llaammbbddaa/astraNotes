@@ -23,6 +23,6 @@ sudo qemu-system-x86_64 \
 
 - understand opencv [[opencv]]
 - understand yolo [[yolo]]
-- understanding ros2
+- understanding ros2 [[ros2]]
 - implement prototype program for [[understanding deprecated object detection stack]]
 - yolo 26m
