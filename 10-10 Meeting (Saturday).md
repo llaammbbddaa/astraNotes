@@ -10,7 +10,6 @@ j = ceil(yResolution / 640)
 
 # pixhawk flight controller cube orange
 find estimated gps coordinate of annotated object based on your current gps location
-[[SLAM]]
 
 # todo
 - add terminal for detection program for live log view, shows whats going on in real time
@@ -18,3 +17,5 @@ find estimated gps coordinate of annotated object based on your current gps loca
 - estimating coordinates of objects found
 - importing into ros2
 - speed up algorithm
+- look into pixhawk flight controller cube orange
+- **maybe** research [[SLAM]]
